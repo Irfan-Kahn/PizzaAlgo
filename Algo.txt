@@ -1,2 +1,5 @@
 I love Alsham style pizza
 Let's Order form Alsham One
+
+If the delivery takes longer
+We will order from somewhere else
